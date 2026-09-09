@@ -1,0 +1,44 @@
+# Python bytecode / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Test / tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*Zone.Identifier
+*#Uf03aZone.Identifier
+
+# Secrets / local configuration
+.env
+.env.*
+
+# Input datasets and local databases
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# Serialized/generated model files
+*.joblib
+*.pkl
+*.pickle
+
+# Generated outputs
+outputs_ai/
+outputs_descriptive_analysis/
+outputs_engineering/
+reports/
