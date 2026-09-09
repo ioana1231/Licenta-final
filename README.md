@@ -1,8 +1,13 @@
-# Licenta-final
+# RECONSTRUCȚIA ȘI ANALIZA UNUI SET DE DATE MEDICALE PENTRU IDENTIFICAREA PROFILURILOR CLINICE PRIN METODE DE CLUSTERING
 
 Aplicație dezvoltată pentru lucrarea de licență, dedicată prelucrării, integrării, anonimizării/pseudonimizării, analizei statistice și clusterizării nesupervizate a unui set de date clinice pulmonare.
 
 Repository-ul conține codul sursă al aplicației. Setul de date medicale real, baza SQLite generată, modelele serializate și fișierele de output nu sunt incluse în repository.
+
+## Autor
+- Nume: Vesa Ioana Mina
+- Specializare: Calculatoare Română(C-RO)
+- Universitatea Politehnica Timișoara
 
 ## Funcționalități principale
 
