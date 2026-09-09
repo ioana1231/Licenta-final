@@ -14,7 +14,7 @@ Ce face:
 8. Adauga missing indicators pentru variabile cu multe valori lipsa si scaleaza doar variabilele continue.
 
 Rulare:
-    python3 build_features_v3_final.py
+    python3 build_features_v4_final_audit.py
 """
 
 from __future__ import annotations
