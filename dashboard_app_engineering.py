@@ -3,7 +3,7 @@
 Dashboard local pentru lucrarea de licenta - versiune pentru filmare/prezentare.
 
 Rulare recomandata:
-    streamlit run dashboard_app_recording.py --server.address 127.0.0.1 --server.port 8501
+    streamlit run dashboard_app_engineering.py --server.address 127.0.0.1 --server.port 8501
 
 Ruleaza-l din acelasi folder cu:
     baza_date_licenta.db
