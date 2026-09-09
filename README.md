@@ -37,7 +37,6 @@ Repository-ul conține codul sursă al aplicației. Setul de date medicale real,
 ├── requirements.txt
 ├── requirements_testing.txt
 ├── requirements_specification.md
-├── COD_AUDIT_CHECKLIST.md
 └── tests/
     └── test_pipeline_unit.py
 ```
