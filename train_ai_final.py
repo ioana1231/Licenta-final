@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-train_ai.py - modul AI pentru licenta
+train_ai_final.py - modul AI pentru licenta
 
 Scop:
 - citeste datasetul pregatit pentru clustering din baza SQLite;
